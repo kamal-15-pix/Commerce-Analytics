@@ -8,3 +8,6 @@ The case study analyses the expenditure satisfaction and behaviour of customers 
 * To calculate average age influenced by intention of purchases.
 * To aggregate the total money spent by genders through modes of access.
 # Data Sources
+Dataset used in the analysis is obtained from KAGGLE produced by Salahuddin Ahmed initially named as 'Ecommerce consumer behaviour analysis data'.
+Matrices and information about Customers including their unique IDs, age, gender, location and their expenditure on different categories along with the factors influencing it, are constituted in the original dataset.
+# Methodology
