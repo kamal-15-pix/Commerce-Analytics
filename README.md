@@ -12,4 +12,8 @@ The case study analyses the expenditure satisfaction and behaviour of customers 
 * Matrices and information about Customers including their unique IDs, age, gender, location and their expenditure on different categories along with the factors influencing it, are constituted in the original dataset.
 # Methodology
 ## Data cleaning and manipulation
-
+* Excluded the unnecessary matrices which were redundant to the targeted analysis.
+* Added the new quantified columns like total purchase amount.
+* Fixed the formatting errors present the considered raw dataset.
+* Corrected the encoding errors like existence of special characters by replacing the entire column with AI generated data.
+# 
