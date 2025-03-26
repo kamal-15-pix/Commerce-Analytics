@@ -16,4 +16,15 @@ The case study analyses the expenditure satisfaction and behaviour of customers 
 * Added the new quantified columns like total purchase amount.
 * Fixed the formatting errors present the considered raw dataset.
 * Corrected the encoding errors like existence of special characters by replacing the entire column with AI generated data.
-# 
+# SQL Queries
+* Aggregated the gross total of computed matrice to compare the maximums and minimums.
+* Conditioned the query to process only the records which focus mainly on stakeholding requirement.
+# Visualization(Tableau)
+* Joined the manipulated and queried table and visualized the data in four different viz.
+* Categorise the total expenditure based on satisfaction level irrespective of any factor initially.
+* Visualized the average age and gender distinction in pie chart on factor of purchase intent.
+* In the form of line chart, gross finances and their derivations of major genders including male amd females, distinguished by access channels have been represented in two different viz.
+# Key Findings
+* Toys and Games category has generated the overall highest income and been on the top second position in providing maximum customer satisfaction.
+* 
+* Male population spent the highest for online shopping in Sports and outdoors products.
