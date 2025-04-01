@@ -40,7 +40,7 @@ How to Use This Repository:
 * Review the SQL QUERIES/ for data analysis.
 * Check the VISUALIZATIONS/ folder for graphical insights.
 * Use the dataset in DATA MANIPULATION/ for further exploration.
-##AUTHOR
-KAMALJIT
-Linkedin: www.linkedin.com/in/kamal-jit-682b851a0
-Github: 
+# AUTHOR
+## KAMALJIT
+## Linkedin: www.linkedin.com/in/kamal-jit-682b851a0
+## Github: 
