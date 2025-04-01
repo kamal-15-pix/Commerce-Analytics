@@ -37,9 +37,9 @@ The case study analyses the expenditure satisfaction and behaviour of customers 
 This Case Study entirely focuses on the key factors influencing revenue generation and customer experience, including genders, age, product categories and others. The insights produced by the study can be beneficial for the businesses by targeting the factors included in the analysis.
 # Repository Structure
 How to Use This Repository:
-*Review the SQL QUERIES/ for data analysis.
-*Check the VISUALIZATIONS/ folder for graphical insights.
-*Use the dataset in DATA MANIPULATION/ for further exploration.
+* Review the SQL QUERIES/ for data analysis.
+* Check the VISUALIZATIONS/ folder for graphical insights.
+* Use the dataset in DATA MANIPULATION/ for further exploration.
 ##AUTHOR
 KAMALJIT
 Linkedin: www.linkedin.com/in/kamal-jit-682b851a0
