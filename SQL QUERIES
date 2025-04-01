@@ -1,1 +1,8 @@
-
+SELECT Purchase_Category,
+      Purchase_Channel,
+       SUM(CASE WHEN Gender = "Female" THEN Total_Purchase_Amount ELSE 0 END) AS total_female_expenses,
+       SUM(CASE WHEN Gender = "Male" THEN Total_Purchase_Amount ELSE 0 END) AS total_male_expenses,
+	
+FROM `innate-setup-406611.case_study_kamal.e-commerce_consumer_behaviour_study`
+WHERE Customer_Satisfaction <= 5
+GROUP BY Purchase_Category, Purchase_Channel
